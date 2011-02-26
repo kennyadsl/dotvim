@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/matteo/Desktop/owgm/branches/rails3'
+let g:netrw_dirhist_2='/Users/matteo/Documents/owums/trunk'
+let g:netrw_dirhist_3='/Users/matteo/Desktop/owgm/branches/rails3'
+let g:netrw_dirhist_4='/Users/matteo/Desktop/shop'
+let g:netrw_dirhist_5='/Users/matteo/Desktop/testingtest'
+let g:netrw_dirhist_6='/home/k/Website/code/farmawell'
+let g:netrw_dirhist_7='/home/k/Website/Extensions/spree_product_ordering/app/views/admin/hooks'
