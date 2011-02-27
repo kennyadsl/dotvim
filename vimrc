@@ -72,3 +72,4 @@ if has("gui_running")
   winsize 119 41
 endif
 
+let g:indent_guides_enable_on_vim_startup = 0
