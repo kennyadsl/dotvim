@@ -52,6 +52,10 @@ set scrolloff=3
 
 set mouse=a
 
+if has("autocmd")
+  filetype plugin indent on
+endif
+
 " Gui Options
 if has("gui_running")
 
