@@ -1,7 +1,4 @@
-call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
 
-"####################### Start keyboard mappings #######################"
 
 " Comment toggle "
 map t/ ,c<space>
@@ -72,4 +69,10 @@ if has("gui_running")
   winsize 119 41
 endif
 
-let g:indent_guides_enable_on_vim_startup = 0
+" My Mapping
+
+nmap <D-[> <<
+nmap <D-]> >>
+vmap <D-[> <gv
+vmap <D-]> >gv
+
