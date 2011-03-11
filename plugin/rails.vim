@@ -1,0 +1,1 @@
+/home/k/.vim/bundle/rails/plugin/rails.vim
